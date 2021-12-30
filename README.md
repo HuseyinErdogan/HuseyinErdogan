@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @HuseyinErdogan
 - 👀 I’m interested in Web and Ethereum Development
-- 🌱 I’m currently learning Solidity
 - 📫 How to reach me https://www.linkedin.com/in/huseyinerdoganhe/
 
 <!---
