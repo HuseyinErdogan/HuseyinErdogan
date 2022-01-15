@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @HuseyinErdogan
-- 👀 I’m interested in Web and Ethereum Development
 - 📫 How to reach me https://www.linkedin.com/in/huseyinerdoganhe/
 
 <!---
